@@ -23,7 +23,7 @@
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+I had some challenges with initializing the YouTube player, but that was quickly resolved. Other than that, no issues encountered.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
